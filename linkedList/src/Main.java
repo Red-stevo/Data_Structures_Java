@@ -2,12 +2,12 @@ public class Main {
 
 
    static FindThemissingNumber findThemissingNumber;
-    public  static singlyLinkList createNode( int data)
+ /*   public  static singlyLinkList createNode( int data)
     {
         singlyLinkList node = new singlyLinkList(data);
         return  node;
     }
-
+*/
 
   /*  public static void main(String[] args) {
         singlyLinkList head = new singlyLinkList();
